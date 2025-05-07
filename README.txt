@@ -1,6 +1,4 @@
-Harrison Latimer
-
-Project 2 - Part of Speech Tagging
+Project  - Part of Speech Tagging
 
 Programming Language: Python v3.14
 
